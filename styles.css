@@ -1,0 +1,60 @@
+.turquoisecontainer {
+  border: 8px solid #78FFE9;
+  padding: 10px;
+  border-radius: 50px;
+}
+
+
+.mintcontainer {
+  border: 13px dotted #3FC3E8;
+  padding: 75px;
+  display: flex;
+  justify-content: space-between;
+  border-radius: 50px;
+}
+
+
+#darkpurpletitle{
+  color: #5F4DFF;
+  font-family: 'Cinzel', serif;
+  font-size: 90px;
+  text-align: center;
+  font-weight: bold;
+
+}
+
+body{
+  background-color: #C2C3FF
+}
+
+.pup{
+  height: 300px;
+
+}
+
+.pup1{
+  height: 250px;
+}
+
+
+.height{
+height: 300px;
+padding: 10px;
+}
+
+
+.pictures{
+display:flex;
+justify-content: space-around;
+flex-wrap: wrap;
+
+
+}
+
+.words{
+font-size: 25px;
+color: #686FE8
+
+
+
+}
